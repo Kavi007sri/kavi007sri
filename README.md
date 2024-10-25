@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Kavitha L from Erode, currently pursuing B.Tech in AI & Data Science at Erode Sengunthar Engineering College<br>🔭 I’m currently working on Enhancing my knowledge in AI and Data Science through various projects<br>🤝 I’m looking to collaborate on Exciting AI and Data Science projects<br>🌱 I’m currently learning Data Science, Machine Learning,  Deep Learning, Web Development, Augmented Reality and Virtual Reality<br>💬 Ask me about AI, Data Science, Python and Web Development<br>⚡ Fun fact: I’m from Erode and love exploring new innovations in AI!
+👋 Hi, I’m Kavitha L from Erode, currently pursuing B.Tech in AI & Data Science at Erode Sengunthar Engineering College<br>🔭 I’m currently working on Enhancing my knowledge in AI and Data Science through various projects<br>🤝 I’m looking to collaborate on Exciting AI and Data Science projects<br>🌱 I’m currently learning Data Science, Machine Learning,  Deep Learning, Web Development, Augmented Reality and Virtual Reality<br>💬 Ask me about AI, Data Science, Python and Web Development<br>⚡ Fact: I’m from Erode and love exploring new innovations in AI!
 
 
 ## 🌐 Socials:
